@@ -8,11 +8,13 @@ export default function Body() {
             name:"Bibimbap",
             image:"",
             description:"Mixed rice with vegetables, meat, and gochujang.",
+            link:"#bibimbap"
         },
         {
             name:"Ramen",
             image:"",
-            description:"Noodle soup with savory broth, toppings, and spices."
+            description:"Noodle soup with savory broth, toppings, and spices.",
+            link: "#ramen"
         }
     ];
 
