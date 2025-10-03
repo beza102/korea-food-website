@@ -5,13 +5,13 @@ import Footer from './components/Footer';
 const FAMOUS_DISHES = [
     {
         name: "Bibimbap",
-        image: "assets/bibimbap.jpg", 
+        image: "assets/Bibimbap.jpeg", 
         description: "Mixed rice with vegetables, meat, and gochujang.",
         link: "#bibimbap"
     },
     {
         name: "Ramen",
-        image: "assets/ramyun.jpg", 
+        image: "assets/korean-ramen-3.jpg", 
         description: "Noodle soup with savory broth, toppings, and spices.",
         link: "#ramen"
     }
