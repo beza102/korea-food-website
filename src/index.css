@@ -8,6 +8,14 @@ body {
   color: #333;
 }
 
+main {
+  padding: 30px;
+}
+
+.food {
+  padding: 15px;
+}
+
 /* Header */
 .page-header {
   background: #b22222; /* Korean red */

@@ -1,8 +1,8 @@
 export default function Footer() {
     return (
-        <>
-            <p>&copy; Ash Gray & Beza </p>
+        <footer>
+            <p>&copy; Ash Gray & Beza Legesse</p>
             <p>CC0 images sourced from <a href="https://commons.wikimedia.org">Wikimedia Commons</a>.</p>
-        </>
+        </footer>
     )
 }   
